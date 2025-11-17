@@ -81,8 +81,7 @@ is necessary → **"self‑consumption without export"** / **"zero injection"**
 ## 📷 Included Image
 
 The following image corresponds to the described wiring diagram:
-
-`EN_Schema-Zoe+Onduleur.jpg`
+![alt text](EN_Schema-Zoe+Onduleur.jpg "Diagram")
 
 ------------------------------------------------------------------------
 
