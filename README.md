@@ -33,13 +33,15 @@ The connection uses the **dedicated 400V free port (PEC)** intended for
 "Nordic country" auxiliary air‑conditioning.
 
 Steps:
-1.  Add a **PTC cable**, modify it, and convert it to **MC4
+1.  Remove the protect plug from PEC inverter
+<img src="PEC-inverter.JPG" alt="drawing" width="200"/>
+3.  Add a **PTC cable**, modify it, and convert it to **MC4
 connectors**.
-2.  Connect this cable to the vehicle's 400 V PEC port
+4.  Connect this cable to the vehicle's 400 V PEC port
 (location shown in the image).
-3.  Ensure the Zoe is powered ON so the
+5.  Ensure the Zoe is powered ON so the
 DC‑DC system supplies stable HV.
-4.  Configure the inverter to draw a maximum of 3 kW
+6.  Configure the inverter to draw a maximum of 3 kW
 
 ------------------------------------------------------------------------
 
