@@ -33,7 +33,9 @@ The connection uses the **dedicated 400V free port (PEC)** intended for
 "Nordic country" auxiliary air‑conditioning.
 
 Steps:
-1.  Remove the protect plug from PEC inverter
+1.  Find the PEC inverter in the Zoe
+<img src="PEC-inverter-location.jpg" alt="drawing" width="200"/>
+2.  Remove the protect plug from PEC inverter
 <img src="PEC-inverter.JPG" alt="drawing" width="200"/>
 3.  Add a **PTC cable**, modify it, and convert it to **MC4
 connectors**.
