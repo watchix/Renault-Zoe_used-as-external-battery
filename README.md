@@ -7,6 +7,10 @@ the provided schematic for using a **Renault Zoe** as a DC power source
 feeding a **hybrid inverter** in self‑consumption mode.
 
 > [!CAUTION]
+> /!\ DO NOT plug the T2 cable to charge the vehicule AND MC4 cable to your inverter !!!
+> 
+> Do not draw more than 3kW from your inverter => your vehicule don't like it :)
+> 
 > Working with high voltage is dangerous. Always follow local laws and regulations regarding high voltage work. If you are unsure about the rules in your country, consult a licensed electrician for more information.
 
 
