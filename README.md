@@ -15,6 +15,8 @@ feeding an **inverter** in self‑consumption mode.
 
 
 ------------------------------------------------------------------------
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G-JHGNowtyA/0.jpg)](https://www.youtube.com/watch?v=G-JHGNowtyA)
+------------------------------------------------------------------------
 
 ## ⚡ Purpose of the System
 
