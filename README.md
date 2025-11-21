@@ -4,7 +4,7 @@
 
 This document explains the wiring diagram and operational logic shown in
 the provided schematic for using a **Renault Zoe** as a DC power source
-feeding a **hybrid inverter** in self‑consumption mode.
+feeding an **inverter** in self‑consumption mode.
 
 > [!CAUTION]
 > /!\ DO NOT plug the T2 cable to charge the vehicule AND MC4 cable to your inverter !!!
@@ -20,7 +20,7 @@ feeding a **hybrid inverter** in self‑consumption mode.
 
 This setup allows the traction battery of a Renault Zoe (R90 - 40 kWh example
 shown) to supply high‑voltage DC (approx. **345--400 V**) to the **PV
-input (MPPT)** of a hybrid inverter.\
+input (MPPT)** of an inverter.\
 The inverter then injects controlled power into the home's AC electrical
 system based on household consumption.
 
@@ -57,7 +57,7 @@ Steps:
 ## 🔋 HV Output to Inverter
 
 The HV line (≈345--400 VDC) is routed: - Through the custom MC4 cable -
-Into the **Hybrid Inverter (with AC coupling)**, connected via its **PV
+Into the **Inverter (with AC coupling)**, connected via its **PV
 MPPT input**
 
 ⚠️ **Warning:**\
@@ -69,7 +69,7 @@ Or alternatively, you need a system to communicate with the vehicle’s BMS via 
 
 ## 🏠 AC Injection and Home Electrical Panel
 
-The hybrid inverter outputs 230 V AC to the home, protected by a **20A breaker**.
+The inverter outputs 230 V AC to the home, protected by a **20A breaker**.
 
 A **current clamp** (tore) is placed at the L grid meter to: - Measure
 real‑time household consumption - Allow the inverter to inject only what
