@@ -1,6 +1,6 @@
 ## Renault Zoe used as external battery
 
-# Wiring Diagram and Operation with the Renault Zoe in Self-Consumption Mode
+# Wiring Diagram and Operation with the Renault Zoe in Self-Consumption Mode (~V2H)
 
 This document explains the wiring diagram and operational logic shown in
 the provided schematic for using a **Renault Zoe** as a DC power source
