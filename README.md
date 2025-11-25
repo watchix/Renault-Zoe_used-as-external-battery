@@ -15,6 +15,8 @@ feeding an **inverter** in self‑consumption mode.
 
 
 ------------------------------------------------------------------------
+<img width="278" height="100" alt="image" src="https://github.com/user-attachments/assets/a6ce584a-1dce-4282-82e6-e4e906617b35" />
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G-JHGNowtyA/0.jpg)](https://www.youtube.com/watch?v=G-JHGNowtyA)
 ------------------------------------------------------------------------
 
