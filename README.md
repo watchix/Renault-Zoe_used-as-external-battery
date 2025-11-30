@@ -12,6 +12,10 @@ feeding an **inverter** in self‑consumption mode.
 > Do not draw more than 3kW from your inverter => your vehicule don't like it :)
 > 
 > Working with high voltage is dangerous. Always follow local laws and regulations regarding high voltage work. If you are unsure about the rules in your country, consult a licensed electrician for more information.
+> I strongly advise you to use High-voltave live working gloves of insulating material : CEI60903 (Class 0)
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ea917340-260a-4506-9b16-ad4efd64c18a" />
+
 
 
 ------------------------------------------------------------------------
